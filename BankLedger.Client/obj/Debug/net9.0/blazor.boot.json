@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BankLedger.Client",
   "resources": {
-    "hash": "sha256-vEJLmsCZ7TCeR54Gy0MdWKDfUckb2mLmTMhpLfur8Q4=",
+    "hash": "sha256-TfQTeMahF7dEqZQ9XoA4w6SG/3JrWoO+SQLtpjwRGfw=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.65wbz7t8mt.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BankLedger.Client.qtdyfp0i3t.wasm": "BankLedger.Client.wasm",
-      "BankLedger.Client.f4ox73v5p8.pdb": "BankLedger.Client.pdb"
+      "BankLedger.Client.42l163ik44.wasm": "BankLedger.Client.wasm",
+      "BankLedger.Client.lfw9xegghh.pdb": "BankLedger.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
@@ -412,10 +412,10 @@
       "WindowsBase.vy2l5u79y6.wasm": "sha256-ufB9Mo5joMyUs3DzXWWBFFIZNEVrt6h9N5stYB6Oln4=",
       "mscorlib.xd6mv31d55.wasm": "sha256-1YSLR2eZt3ceALFV//vZUF2AloxVil3VlrW1zZYPSEI=",
       "netstandard.kaml52uspo.wasm": "sha256-HLEwBpLfzKw2/zGSVzHzFJxznCkt/WIjahrziiMrOpA=",
-      "BankLedger.Client.qtdyfp0i3t.wasm": "sha256-gpLF36qSEdzKZFtj4+9d+w6MxKb56iX9iqQ3cuWnSpg="
+      "BankLedger.Client.42l163ik44.wasm": "sha256-3PIa5b2ooUg1pKVZXuX4TRVym8Mm0PnBqgz8vmikbzI="
     },
     "pdb": {
-      "BankLedger.Client.f4ox73v5p8.pdb": "sha256-oYTB3s1N90aAGfrAZueMXB4KhyZW5w9RTjX7Nq13i2Y="
+      "BankLedger.Client.lfw9xegghh.pdb": "sha256-ccWTX5k5QnF8Ucqq7Q8sTqdplD2Kada+1e1AvWBq244="
     }
   },
   "cacheBootResources": true,
